@@ -1,0 +1,9 @@
+{
+  apps : [
+    {
+      name      : "newscorp",
+      script    : "newscorp.sh",
+      max_restarts : 30
+    }
+  ]
+}
