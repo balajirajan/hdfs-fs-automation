@@ -1,1 +1,1 @@
-# scripts
+# hadoop automation
